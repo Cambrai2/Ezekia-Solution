@@ -1,0 +1,31 @@
+﻿JobId,CandidateId,Title,Employer,StartDate,EndDate
+1,1,Accountant,Software Ridge,20.5.2016 10:31,2.2.2019 15:20
+2,1,Actor,Software Dev,20.5.2016 8:23,4.2.2019 15:20
+3,1,Actuary,Software Inc,18.4.2017 8:31,1.2.2019 15:20
+4,2,Administrative Services Manager,Software Rank,29.4.2016 14:13,7.2.2019 15:20
+5,2,High School Teachers ,Software Vine,14.12.2016 9:55,7.2.2019 15:20
+6,2,Advertising Sales Agent,Ridge Software,14.1.2015 23:53,7.2.2019 15:20
+7,3,Advertising,Dev Software,14.1.2015 23:54,7.2.2019 15:20
+8,3,Operations Technician,Inc Software,14.1.2015 23:54,7.2.2019 15:20
+9,3,Aerospace Engineer,Rank Software,14.1.2015 23:52,7.2.2019 15:19
+10,4,Food Science Technician,Vine Software,14.1.2015 23:52,7.2.2019 15:19
+11,4,Agricultural Scientist,Software Ability,14.1.2015 23:51,7.2.2019 15:19
+12,4,Agricultural Engineer ,Software Ex,14.1.2015 23:54,7.2.2019 15:20
+13,5,Agricultural Worker,Software Industries,14.1.2015 23:54,7.2.2019 15:20
+14,5,Air Traffic Controllers,Software Zoom,14.1.2015 23:55,7.2.2019 15:20
+15,5,Service Technician,Software Rhino,14.1.2015 23:50,7.2.2019 15:19
+16,6,Aircraft Pilot,Ability Software,14.1.2015 23:52,7.2.2019 15:19
+17,6,Animal Care and Service Worker,Ex Software,14.1.2015 23:53,7.2.2019 15:20
+18,6,Announcer,Industries Software,14.1.2015 23:54,7.2.2019 15:20
+19,7,Anthropologist,Zoom Software,14.1.2015 23:54,7.2.2019 15:20
+20,7,Appraiser of Real Estate ,Rhino Software,14.1.2015 23:50,7.2.2019 15:19
+21,7,Mediator,Software Able,14.1.2015 23:50,7.2.2019 15:19
+22,8,Architect,Software Bit,14.1.2015 23:51,7.2.2019 15:19
+23,8,Architectural and Engineering Manager,Software Ink,14.1.2015 23:54,7.2.2019 15:20
+24,8,Museum Technician,Software Ment,14.1.2015 23:51,7.2.2019 15:19
+25,9,Art Director,Software Gorilla,14.1.2015 23:54,7.2.2019 15:20
+26,9,Artist,Able Software,14.1.2015 23:52,7.2.2019 15:19
+27,9,Assembler,Software Amp,14.1.2015 23:52,7.2.2019 15:19
+28,10,Athlete,Software Pin,14.1.2015 23:51,7.2.2019 15:19
+29,10,Athletic Trainer,Software Velocity,14.1.2015 23:54,7.2.2019 15:20
+30,10,Atmospheric Scientist,Software Woop,14.1.2015 23:54,7.2.2019 15:20

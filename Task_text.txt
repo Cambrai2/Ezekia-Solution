@@ -1,0 +1,17 @@
+You are provided with 2 CSV files:
+
+candidates.csv - a list of candidate names and email addresses
+jobs.csv - a list of the past 3 jobs for each candidate. A job contains the job title, company name, start and end dates. 
+
+The task is to read this data using PHP7 in CLI mode and populate a MySQL database of 2 tables.
+The script should finish by printing out simple structured data for each candidate and their 3 jobs in the correct order,
+with most recent job first.
+
+Guidelines: You will need to use the Laravel framework to complete this task,
+in particular your understanding of the Artisan command and Eloquent ORM features are of interest to us.
+Although the data set is very small, please create code that can deal with very large data sets that minimise the 
+number of queries made to the database. 
+
+Your code should be structured using object-oriented principles and should be committed to a 
+publicly accessible GitHub account, or similar. Please do not do a single commit at 
+the end of the task but commit frequently, so we can assess your overall approach. 
